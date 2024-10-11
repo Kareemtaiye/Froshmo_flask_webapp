@@ -1,0 +1,8 @@
+.flaskenv
+
+__pycache__/
+
+students.db
+
+venv/
+env/
